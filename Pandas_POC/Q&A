@@ -1,0 +1,13 @@
+Q- Why we use pandas lib for web scrappng?
+Ans- It has a neat concept known as a DataFrame, A datafram can hold data and be easily manipulated. we can comibine pandas with BeautifulSoup to quickly get data from a web page.
+
+Q- What is read_html() function can do in pandas lib?
+Ans- It is a quick and convenient way to turn an HTML table into a pandas DataFrame. This function can be useful for quickly incorporating tables from various websites without figuring out how to scrape the site’s HTML. 
+
+Q- Why are visualizations important? Or Why we use matplot.lib?
+Ans- To show our big data in a visualized form we use matplot, we can show as pie/bar/histograp chart, it some how look intresting and understanding to other what actually a big data contain, for example- i have a data of covid report from WHO now extract datas from that huge file is not so easy, but what if i show in a single image form, whats make easy to understand as well as it seems intresting also.
+       Visualizations are the easiest way to analyze and absorb information. Visuals help to easily understand the complex problem. They help in identifying patterns, relationships, and outliers in data.
+       Matplotlib is a 2-D plotting library that helps in visualizing figures. Matplotlib emulates Matlab like graphs and visualizations.
+
+Q- What is seaborn lib?
+Ans-Seaborn is a library in Python predominantly used for making statistical graphics. Seaborn is a data visualization library built on top of matplotlib and closely integrated with pandas data structures in Python
